@@ -1,0 +1,30 @@
+.p{
+    font-weight: bold;
+    color: coral !important;
+}
+.calculadora {
+    margin: 100px auto;
+        padding: 20px;
+    width: 300px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.calculadora input {
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 1.5em;
+}
+.calculadora button {
+    width: 62px;
+    height: 45px;
+    margin: 5px;
+    font-size: 1.2em;
+}
+
+.calculadora .limpar{
+    color: red;
+    text-align: center;
+    width: 75px;
+}
